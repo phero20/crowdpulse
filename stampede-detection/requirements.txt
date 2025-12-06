@@ -1,0 +1,13 @@
+opencv-python
+numpy
+pandas
+pywhatkit
+pygame
+matplotlib
+torch
+torchvision
+torchaudio
+fastapi
+uvicorn
+python-multipart
+ultralytics
